@@ -1,0 +1,6 @@
+# Required libraries for project_toolbox.py
+
+python-nmap==0.7.1          # For Nmap Port Scanner functionality
+cryptography==39.0.1        # For encryption and decryption in Shellcode Encryptor and Crypto Tool
+jsmin==2.2.2                # For JavaScript minification in HTML Smuggler Tool
+Jinja2==3.0.3               # For template rendering in HTML Smuggler Tool
